@@ -12,5 +12,7 @@ public class test {
     }
     public void method() {
         System.out.println("this is IDEA & Git");
+        System.out.println("modify by hhx");
         }
+
 }
