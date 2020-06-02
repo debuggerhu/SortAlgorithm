@@ -10,7 +10,9 @@ public class test {
         new HashSet<>();
         new Vector<>();
     }
-    public void method() {
-        System.out.println("this is IDEA & Git");
-        }
+
+     public String methodname(String str){
+            str+="Hello";
+             return str;
+         }
 }
